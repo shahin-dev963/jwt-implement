@@ -60,7 +60,6 @@ public class ApiController {
         System.out.println(gson.toJson(data));
     }
 
-
     @PostMapping("/authenticate")
     public String generateToken(@RequestBody AuthRequest authRequest) throws Exception {
         try {
