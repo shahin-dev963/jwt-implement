@@ -271,7 +271,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-5" />
     <option name="width" value="940" />
     <option name="height" value="1030" />
@@ -416,7 +416,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671822678511" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671859575332" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -446,7 +446,7 @@
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/java/com/shahin/jwt/api" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="spring-security-jwt-example" />
+      <module name="spring-security-jwt" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
       <option name="SUGGESTED_NAME" value="All Features in: api" />
       <extension name="coverage">
@@ -460,7 +460,7 @@
       </method>
     </configuration>
     <configuration name="SpringSecurityJwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-security-jwt-example" />
+      <module name="spring-security-jwt" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.shahin.jwt.api.SpringSecurityJwtApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
